@@ -1,0 +1,13 @@
+{
+  "name": "trigrman",
+  "owner": {
+    "name": "Mike Mitchell"
+  },
+  "plugins": [
+    {
+      "name": "granola-meetings",
+      "source": "github:trigrman/granola-meetings",
+      "description": "Access and review Granola meeting notes"
+    }
+  ]
+}
