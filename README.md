@@ -11,7 +11,7 @@ Add this marketplace:
 
 Install a plugin:
 ```bash
-/plugin install granola-meetings@trigrman
+/plugin install granola-meetings@trigrman-plugins
 ```
 
 ## Available Plugins
