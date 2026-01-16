@@ -6,7 +6,10 @@
   "plugins": [
     {
       "name": "granola-meetings",
-      "source": "github:trigrman/granola-meetings",
+      "source": {
+        "source": "github",
+        "repo": "trigrman/granola-meetings"
+      },
       "description": "Access and review Granola meeting notes"
     }
   ]
